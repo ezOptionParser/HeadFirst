@@ -1,4 +1,4 @@
-# BCJR Algorithm in GF(2^n)
+# android_scan_gif
 ## Usage
 ```
 python3 trellis.py --plot_sections 0 5 --input=test_data/file1.csv --b=1
